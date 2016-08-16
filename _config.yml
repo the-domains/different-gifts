@@ -1,14 +1,8 @@
-layout_spectrum: 0.2346072
-typography_spectrum: 0.8335088
+layout_spectrum: 0.7844611
+typography_spectrum: 0.183584
 color:
-  lightness: 0.134673
-  brandStrength: 0.103499
-  saturation: 0.6904199
-  rhythmicContrast: 0.381153
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+  lightness: 1
+  brandStrength: 1
+  saturation: 1
+  rhythmicContrast: 0
 name: Different Gifts
